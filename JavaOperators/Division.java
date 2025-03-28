@@ -1,4 +1,4 @@
-package AssignmentOperators;
+package JavaOperators;
 
 public class Division {
     public static void main(String[] args) {
