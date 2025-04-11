@@ -16,7 +16,7 @@ class MobilePhone{
     }
 }
 
-public class StaticSimple {
+public class StaticMethod1 {
     public static void main(String[] args) {
         MobilePhone m1 = new MobilePhone();
         m1.price = 2000;

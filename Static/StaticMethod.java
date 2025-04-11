@@ -2,7 +2,7 @@ package Static;
 
 class MathHelper{
     // Define static method with parameters
-    static int add(int a, int b){
+    public static int add(int a, int b){
         return a + b;
     }
 }
