@@ -14,8 +14,8 @@ class Student{
     }
     public void setAddress(String address) {
         this.address = address; // We can either keep same variable name and use this keyword
-        // this.address is comming from above assigned value
-        // address is coming from method perameter
+        // this.address is comming from above assigned value "instance variable from classs"
+        // address is coming from method perameter "local variable from method"
     }
     public long getPhone() {
         return phone;
