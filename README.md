@@ -1,2 +1,2 @@
 # Java-Training
-This Repo contains basic code for all basic code for Java and Advanced Java.  
+This repository contains basic code examples covering all core concepts of core Java and Advanced Java.
