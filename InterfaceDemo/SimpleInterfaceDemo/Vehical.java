@@ -1,5 +1,6 @@
 package InterfaceDemo.SimpleInterfaceDemo;
 
 public interface Vehical {
-    public void geers();
+    double PI = 3.14; // static finaly variable
+    void geers();
 }
