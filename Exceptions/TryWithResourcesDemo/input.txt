@@ -1,0 +1,3 @@
+hi, 
+i am harsh lad.
+this is an example of try with resources example.
