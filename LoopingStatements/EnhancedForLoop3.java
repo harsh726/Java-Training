@@ -16,12 +16,12 @@ public class EnhancedForLoop3 {
 
         Students s2 = new Students();
         s2.id = 2;
-        s2.name = "Nidhi";
+        s2.name = "Ashik";
         s2.marks = 70;
         
         Students s3 = new Students();
         s3.id = 3;
-        s3.name = "Champu";
+        s3.name = "Lay";
         s3.marks = 70;
 
         //Create array type of object and assign the class object

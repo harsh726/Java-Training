@@ -39,7 +39,7 @@ public class SimpleEncapsulation {
 
         Student s2 = new Student();
         s2.id = 2;
-        s2.name = "Nidhi";
+        s2.name = "Ashik";
         s2.setAddress("Surat");
         s2.setPhone(5789);
         s2.display();
