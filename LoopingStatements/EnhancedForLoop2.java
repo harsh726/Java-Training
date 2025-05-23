@@ -9,7 +9,7 @@ public class EnhancedForLoop2 {
         num[3] = 5654;
         num[4] = 52;
         
-        //Display elemts using for-each loop
+        //Display elemts using Enhanced for-loop
         for (int n : num){
             System.out.println(n);
         }
